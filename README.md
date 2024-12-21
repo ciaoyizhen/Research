@@ -10,3 +10,4 @@
 + mrc.ipynb > 基于BERT做的QA问答
 + mlm.ipynb > 基于BERT的预训练
 + generate_model_train.ipynv > 基于bloom的预训练
++ lora_for_seq_cls.ipynb > 基于lora做的bert训练
