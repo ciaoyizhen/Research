@@ -14,6 +14,7 @@
 + ner.ipynb -> 基于BERT做的NER任务
 + lora_for_llm.ipynb -> 基于lora做的大模型NER任务
 + agent_tools.ipynb -> 最基础的agent示例
++ tokenizer_train.ipynb -> 实现了三种编码方式，以及如何解决tokenizer编码回来的空格问题。考虑后续做tiktoken集成到tokenizer中
 
 ## CV
 + ocr_stage2.ipynb -> TrOCR二阶段训练
